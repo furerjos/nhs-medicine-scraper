@@ -8,6 +8,17 @@ This project extracts all 291 medicines from the NHS A-Z medicines page, capturi
 
 *Note: This project was developed as a technical assignment while on vacation, demonstrating efficient time management and focused development practices.*
 
+## ⏱️ Development Timeline
+
+**Total Time: ~3 hours** (within the 2-4 hour assignment timeframe)
+
+- **Initial 15 minutes**: Created scraper that successfully scraped NHS medicine webpage for all medicines, their URLs, and their section links
+- **Additional 45 minutes**: Developed scraper to extract specific values from each section
+- **Additional 1 hour**: Refactored to paragraphTitle/paragraphText paradigm for better robustness
+- **Final hour**: Finishing touches including text cleaning, grammar enhancement, logging, and documentation
+
+**Tools Used**: TypeScript, Playwright, and Cursor AI for development assistance
+
 ## 🏗️ Architecture & Design Decisions
 
 ### Paradigm Shift: Flexible Section Structure

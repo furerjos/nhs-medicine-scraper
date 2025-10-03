@@ -164,20 +164,21 @@ This scraper is designed to be respectful to the NHS website:
 
 ```
 ├── src/
-│   ├── index.ts          # Main entry point
-│   ├── scraper.ts        # Core scraping logic
-│   └── types.ts          # TypeScript type definitions
+│   ├── index.ts          # Main entry point with logging setup
+│   ├── scraper.ts        # Core scraping logic and text processing
+│   ├── types.ts          # TypeScript type definitions
+│   ├── test-links.ts     # Standalone script to test medicine link extraction
+│   └── word-list.txt     # Dictionary for smart text cleaning
+├── logs/                 # Log files (gitignored)
+├── nhs-medicines.json    # Complete scraped data (291 medicines)
+├── sample-output.json    # Example medicine structure
 ├── package.json          # Dependencies and scripts
+├── package-lock.json     # Dependency lock file
 ├── tsconfig.json         # TypeScript configuration
+├── .gitignore           # Git ignore rules
+├── LICENSE              # MIT License
 └── README.md            # This file
 ```
-
-## Development
-
-1. Make changes to the source code in `src/`
-2. Build the project: `npm run build`
-3. Run in development mode: `npm run dev`
-4. Test with limited data: `npm run dev -- --test --limit 5`
 
 ## 🚀 Future Improvements
 

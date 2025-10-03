@@ -1,0 +1,63 @@
+# Common English words for smart text cleaning
+# Medical and general English words that should be separated when concatenated
+
+# Common verbs
+about above after again along among around before below between during except inside outside through under within without
+could would should might shall ought cannot don't won't can't isn't aren't wasn't weren't hasn't haven't hadn't doesn't didn't
+have has had having been being are is was were will would can could may might must should shall do does did done get gets got getting take takes took taking use uses used using make makes made making feel feels felt feeling go goes went going come comes came coming see sees saw seeing know knows knew knowing think thinks thought thinking want wants wanted wanting need needs needed needing help helps helped helping tell tells told telling ask asks asked asking give gives gave giving find finds found finding keep keeps kept keeping put puts putting turn turns turned turning move moves moved moving work works worked working play plays played playing run runs ran running walk walks walked walking talk talks talked talking look looks looked looking listen listens listened listening read reads reading write writes wrote writing call calls called calling try tries tried trying stop stops stopped stopping start starts started starting begin begins began beginning end ends ended ending finish finishes finished finishing open opens opened opening close closes closed closing buy buys bought buying sell sells sold selling pay pays paid paying cost costs costing spend spends spent spending save saves saved saving lose loses lost losing win wins won winning beat beats beating hit hits hitting cut cuts cutting break breaks broke breaking fix fixes fixed fixing build builds built building create creates created creating
+
+# Time-related words
+years months weeks days hours minutes seconds times places things people children women men adults patients doctors nurses
+
+# Medical terms
+medicine medicines tablets tablet liquid cream ointment injection injections drops spray sprays capsules capsule
+problems problem issues issue conditions condition diseases disease symptoms symptom effects effect reactions reaction
+pregnant pregnancy breastfeeding breastfeed fertility fertile conception contraception contraceptive contraceptives
+allergic allergy allergies sensitive sensitivity intolerance intolerant reaction reactions
+kidney liver heart lung lungs brain blood skin bone bones muscle muscles joint joints
+transplant transplants surgery surgical operation operations treatment treatments therapy therapies
+diagnosis diagnoses test tests testing results result analysis analyses
+prescription prescriptions dosage dosages dose doses tablet tablets capsule capsules
+side effects adverse reactions contraindications warnings precautions
+pharmacy pharmacies pharmacist pharmacists prescription prescriptions
+dosage administration route routes oral topical injection intravenous intramuscular subcutaneous
+absorption distribution metabolism elimination excretion pharmacokinetics pharmacodynamics
+efficacy effectiveness safety tolerability adverse events
+clinical trials studies research evidence based medicine
+guidelines recommendations protocols standards practices
+monitoring surveillance follow-up assessment evaluation
+contraindications warnings precautions interactions
+overdose toxicity poisoning antidote antidotes
+withdrawal discontinuation tapering titration
+compliance adherence persistence adherence
+quality assurance quality control manufacturing
+regulatory approval authorization licensing
+patent generic brand name trade name
+formulation strength concentration purity
+stability storage conditions shelf life
+packaging labeling instructions leaflet
+patient information consumer information
+healthcare professional medical professional
+physician doctor nurse pharmacist
+specialist consultant general practitioner
+hospital clinic practice surgery
+emergency urgent acute chronic
+mild moderate severe serious
+temporary permanent reversible irreversible
+common uncommon rare very rare
+frequent infrequent occasional
+immediate delayed gradual sudden
+local systemic topical oral
+preventive therapeutic diagnostic
+prophylactic curative palliative
+symptomatic asymptomatic
+benign malignant
+acute chronic subacute
+mild moderate severe
+temporary permanent
+reversible irreversible
+local systemic
+preventive therapeutic
+prophylactic curative
+symptomatic asymptomatic
+benign malignant

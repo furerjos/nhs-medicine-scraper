@@ -1,0 +1,25 @@
+{
+  "name": "nhs-medicine-scraper",
+  "version": "1.0.0",
+  "description": "A TypeScript/Playwright script to scrape NHS medicines data",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "scrape": "npm run build && npm start"
+  },
+  "keywords": ["nhs", "medicines", "scraper", "playwright", "typescript"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "fs-extra": "^11.1.0",
+    "@types/fs-extra": "^11.0.0"
+  }
+}
